@@ -1,0 +1,6 @@
+# Site settings
+title: Your awesome title
+baseurl: "" 
+
+# Build settings
+markdown: kramdown
