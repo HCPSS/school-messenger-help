@@ -1,5 +1,6 @@
 # Site settings
 title: Your awesome title
-baseurl: "/school-messenger-help"
+baseurl: "" 
+
 # Build settings
 markdown: kramdown
