@@ -1,5 +1,5 @@
 # Site settings
-title: HCPSS SchoolMessenger Help Site
+title: HCPSS SchoolMessenger Help
 baseurl: "/school-messenger-help"
 # Build settings
 markdown: kramdown
