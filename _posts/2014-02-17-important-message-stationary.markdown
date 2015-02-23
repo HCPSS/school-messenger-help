@@ -57,6 +57,10 @@ Don't worry about attaching any files or images.
 
 The dotted box is where you can add your message text and is the only place where text can be edited. The top and bottom text areas cannot be edited. If any information needs to be changed in either of these areas, please let [Web Services](mailto:webmaster@hcpss.org) know.
 
+Remember to set the "From Email" area to no-reply@hcpss.org and to add the subject.
+
+![important message fields](/school-messenger-help/images/important-message-fields.png)
+
 In the message area, feel free to either type up your message or paste content in.
 
 ## Pasting from word
@@ -75,4 +79,4 @@ After pasting it in there may be some extra space, but most of the time this wil
 
 ![paste from microsoft word](/school-messenger-help/images/editor-extra-space.png)
 
-Select "done" once your message is all set, and from there you can send it to your recipients.
+Select "done" once your message is all set, and you can now send it to your recipients.

@@ -63,6 +63,8 @@ You can also attach files. SchoolMessenger allows up to three files, and each fi
 
 Web Services will be happy to downside large PDFs for you. Please email us at <a href="mailto:webmaster@hcpss.org">webmaster@hcpss.org</a> if you need a PDF brought down below 2MB.
 
+<a id="message-editing"></a>
+
 The defaulted message area has a title, important text, and a body area that you can change. 
 
 You can either delete the important text area, or add your school's motto if you're stuck on what to do with it.
@@ -141,7 +143,7 @@ The message options area can stay set to the defaulted boxes that are checked of
 
 ![message options](/school-messenger-help/images/options.png)
 
-If you ever want to re-use a message later on, check off the "save message content" option. You'll be prompted to give it a descriptive title, and it can be accessed later on.
+If you ever want to re-use a message later on, check off the "save message content" option. You'll be prompted to give it a descriptive title, and it can be accessed later on. View our documentation <a href="/school-messenger-help/2014/02/17/creating-draft-message.html#saved-messages">on accessing saved messages.</a>
 
 Select the "send now" button to send out the message. There's also a scheduling feature if you'd like a message to go out on a particular date and time.
 
