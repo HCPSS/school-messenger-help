@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Customizing your Recipient List"
+title: "Customizing Recipient Lists"
 ---
 
 Sending messages to your school community doesn't always involve sending to everyone that signed up. Sometimes, you'll want to target a specific grade-level, bus number, or a custom list of students. 
 
-You can also build lists outside of messages, or create the a right before sending out a message.
+You can build lists outside of messages, or create the list right before sending out a message.
 
 ## Creating a list before sending out a message
 
@@ -13,7 +13,7 @@ You can also build lists outside of messages, or create the a right before sendi
 
 After you've clicked on the "new broadcast" button, you'll be directed to the first message screen. Enter in a subject and go under the "add message recipients" menu.
 
-Underneath this menu you'll have a few options, the first of which allows you to access any lists you've already created and saved. This first option also has a defaulted list for all of your school and community members. 
+Underneath this menu you'll have a few options, the first of which allows you to access any lists you've already created and saved. The "saved recipient lists" option also has a defaulted list for all of your school and community members. 
 
 ![recipient options](/school-messenger-help/images/recipient-options.png)
 
@@ -21,9 +21,9 @@ Custom rules allows you to add students who are listed under either a grade-leve
 
 ![custom rule options](/school-messenger-help/images/custom-rules.png)
 
-- Choose "bus to school" or "bus from school" depending on the time of day to select an individual bus number. Keep the criteria set to "is in". This will find students who are listed under a specific bus number. 
+- Choose "bus to school" or "bus from school" depending on the time of day to select an individual bus number. Keep the criteria set to "is in". This will load students who are listed under a specific bus number. 
 
-- Choose "grade level" to find students in a specific grade.
+- Choose "grade level" to load students in a specific grade.
 
 Once your selection is complete under either option, click on "save" and then "add recipients".
 
@@ -63,7 +63,7 @@ If you wanted to create a list without having to send out a message, go under th
 
 ![accessing lists](/school-messenger-help/images/broadcasts-lists.png)
 
-Click on the add new list button to build a list from scratch. 
+Click on the "add new list button" to build a list from scratch. 
 
 ![add new list](/school-messenger-help/images/add-new-lists.png)
 
@@ -87,7 +87,9 @@ Once your list is all set, click on done and the list can now be accessed under 
 
 Another use-case is having a message list on hand of specific students. This can either be a sports team, students on a field trip, or any other contextual list that you might find yourself sending a message to. 
 
-Same as before, go under the "Broadcasts" tab and then select "Lists" to add a new list. 
+Same as before, go under the "Broadcasts" tab and then select "Lists" to add a new list.
+
+![add new list](/school-messenger-help/images/add-new-lists.png)
 
 Go under the additional list tools menu and select "quick pick".
 
@@ -105,6 +107,6 @@ After the list is all set, click on done and the list can now be accessed under 
 
 ![access saved list](/school-messenger-help/images/access-saved-list.png)
 
-You can always delete a saved list by clicking on "delete" to the right of the list name. 
+Under your "list" tab, you can always delete a saved list by clicking on "delete" to the right of the list name. 
 
 ![delete a list](/school-messenger-help/images/delete-a-list.png) 
