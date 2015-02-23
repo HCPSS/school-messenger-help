@@ -95,7 +95,7 @@ A green message saying your content was loaded will pop up. You can also click o
 
 ![additional edits](/school-messenger-help/images/last-minute-edits.png)
 
-Save the email message if you edited anything.
+Save the email message if you edited anything after loading your message.
 
 ![saving](/school-messenger-help/images/save-discard.png)
 
