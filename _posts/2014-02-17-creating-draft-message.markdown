@@ -27,17 +27,17 @@ Select next once you've added a message name.
 
 ## Loading up the stationary
 
-In the message content area select the dropdown under "HTML Email" to start crafting a message. The only other selection you'll ever have to use is SMS, but that's only if you're pre-crafting emergency messages. 
+In the message content area, select the dropdown under "HTML Email" to start crafting a message. The only other selection you'll ever have to use is SMS, but that's only if you're pre-crafting emergency messages. 
 
 Select the down arrow and then "new from stationary".
 
 For newsletters, use the "simple message" stationary. If you're crafting a canned emergency message ahead of time, select the "important message" stationary. 
 
-<a href="/school-messenger-help/2014/02/17/important-message-stationary.html">View our documentation</a> on using the important message stationary, it's a bit different than the simple message stationary and is only meant for emergencies.
-
 ![new from stationary](/school-messenger-help/images/new-stationary.png)
 
-Your school's name will be defaulted into the "From Name" field. Always check to make sure that the "From Email" field is no-reply@hcpss.org and then re-enter the subject.
+If you're not already familiar with it, <a href="/school-messenger-help/2014/02/17/important-message-stationary.html">view our documentation</a> on using the important message stationary, it's a bit different than the simple message stationary and is only meant for emergencies.
+
+Your school's name will be defaulted into the "From Name" field. Always check to make sure that the "From Email" field is set to no-reply@hcpss.org and then re-enter the subject.
 
 > Setting the "From Email" to no-reply@hcpss.org increases the likelihood of messages going through spam filters.
 
@@ -47,17 +47,19 @@ From here, you can edit your message. You can learn more about basic content edi
 
 You can also add attachments as needed.
 
-At any point, you can also preview what the message will look like in a browser by clicking on the "preview" button.
+At any point, you can also preview what the message will look like in the browser by clicking on the "preview" button.
 
 ![preview a message](/school-messenger-help/images/preview-messages.png)
 
 ## Saving and coming back to the message
 
-Once the content of your message is all set click on done to save it, and then click on done again once it sends you to the message editor overview page.
+Once the content of your message is all set click on done to save it. Then, click on done again after it sends you to the message editor overview page.
 
 ![done](/school-messenger-help/images/done.png)
 
 To get back to your message at any point in time, go under "broadcasts" and then "messages". You'll always find your saved messages inside of this view.
+
+![broadcasts-messages](/school-messenger-help/images/broadcasts-messages.png)
 
 When viewing any previously created draft message, the HTML email dropdown will have a green checkmark next to it.
 
@@ -77,13 +79,17 @@ On the second screen select "load saved message"
 
 This will open up a dialog box of messages you've saved and can select to send.
 
+To the right of the title there's a list of the mediums that the message will send. In the example, only an email will be sent out. 
+
 ![messages to send](/school-messenger-help/images/load-selection.png)
 
-Select the message you want loaded up and click on "load selected message". To the right of the title there's a list of the mediums the message will send. In the example, only email is highlighted. 
+Select the message you want loaded up and then click on "load selected message".
 
 If this was an emergency and an SMS message was going out with it, then the last icon would have a green checkmark as well. 
 
 A green message saying your content was loaded will pop up. You can also click on the "email" box with the checkmark to edit any content before you send it out. 
+
+> It's always a good idea to check that the subject is correct and that no-reply@hcpss.org is listed as the "From Email" field
 
 ![additional edits](/school-messenger-help/images/last-minute-edits.png)
 
