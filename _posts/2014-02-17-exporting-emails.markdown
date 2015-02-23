@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pre-Registered Kindergarten Parents"
+title: "Sending to Pre-Registered Kindergarten Parents"
 ---
 
 Parents of new Kindergarten students are rolled over automatically into Aspen in late-July. They will be enabled for receiving messages around this time.
