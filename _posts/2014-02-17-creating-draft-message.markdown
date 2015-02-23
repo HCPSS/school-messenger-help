@@ -85,6 +85,8 @@ To the right of the title there's a list of the mediums that the message will se
 
 Select the message you want loaded up and then click on "load selected message".
 
+![load selected message](/school-messenger-help/images/load-selected.png)
+
 If this was an emergency and an SMS message was going out with it, then the last icon would have a green checkmark as well. 
 
 A green message saying your content was loaded will pop up. You can also click on the "email" box with the checkmark to edit any content before you send it out. 
