@@ -95,6 +95,6 @@ A green message saying your content was loaded will pop up. You can also click o
 
 ![additional edits](/school-messenger-help/images/last-minute-edits.png)
 
-Click on continue to get to the final screen for sending. You can either send it immediately or schedule it to be sent later.
+Save the email message if you edited anything and then click on continue to get to the final screen for sending. You can either send it immediately or schedule it to be sent later.
 
 The saved message will remain on your account until it's deleted. 
