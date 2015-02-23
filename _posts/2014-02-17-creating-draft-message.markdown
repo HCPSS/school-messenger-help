@@ -89,7 +89,7 @@ If this was an emergency and an SMS message was going out with it, then the last
 
 A green message saying your content was loaded will pop up. You can also click on the "email" box with the checkmark to edit any content before you send it out. 
 
-> It's always a good idea to check that the subject is correct and that no-reply@hcpss.org is listed as the "From Email" field
+> It's always a good idea to check that the subject is correct and that no-reply@hcpss.org is listed in the "From Email" field
 
 ![additional edits](/school-messenger-help/images/last-minute-edits.png)
 
