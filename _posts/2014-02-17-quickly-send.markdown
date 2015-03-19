@@ -93,6 +93,8 @@ After pasting it in there may be some extra space, but most of the time this wil
 
 ![](/school-messenger-help/images/editor-extra-space.png)
 
+<a id="adding-links"></a>
+
 ### Adding Links
 
 Any link you add to a message has to be copied from a URL bar. Links should never be copied over from Outlook because there are some issues that happen behind the scenes with these links.
@@ -102,6 +104,8 @@ If you ever have a link emailed to you, open it up in a new window and copy the 
 ![URL bar](/school-messenger-help/images/URL-bar.png)
 
 Highlight the text you want to make a link and then click on the link button.
+
+![highlight text](/school-messenger-help/images/highlight-text.png)
 
 ![add a link](/school-messenger-help/images/add-link.png)
 
