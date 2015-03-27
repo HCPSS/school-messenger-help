@@ -21,13 +21,13 @@ When a news item gets posted it's given a unique URL to share:
 
 ![](/school-messenger-help/images/editorial-process/grab-url.png)
 
-Posting stories on the site the instant they are availiable allows the Public Information Office to get news items out in a timely manner.
+Posting stories on the site the instant they are available allows the Public Information Office to get news items out in a timely manner.
 
 This URL is then used to link readers to the full content from a smaller blurb, or content snippet, in the Weekly Newsletter that's sent out from SchoolMessenger.
 
 ![](/school-messenger-help/images/editorial-process/into-wn.png)
 
-Readers who are interested in the topic can click on "Learn more" to read the full article. However, the readers who decide not to click through are not inundated with the full article in the newsletter, so everyone is choosing the content most relevent to their interests.
+Readers who are interested in the topic can click on "Learn more" to read the full article. However, the readers who decide not to click through are not inundated with the full article in the newsletter, so everyone is choosing the content most relevant to their interests.
 
 > This clears up the issue of having to put *full versions of news content* into one email at the end of the week.
 
@@ -43,7 +43,7 @@ After posting news content on your school's website, that same content is pushed
 
 Collaborate with web managers to have them post news items as they come in.
 
-> This gets a story out the instant it's availible, and allows you to link to it in your weekly newsletter
+> This gets a story out the instant it's available, and allows you to link to it in your weekly newsletter
 
 All news items are pushed to the HCPSS Mobile App when they are published on your website. Keeping news content on the school sites also allows web managers to post YouTube embeds, images, and additional documents that would've have been possible in an email.
 
