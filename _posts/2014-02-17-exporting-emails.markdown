@@ -95,11 +95,11 @@ A recipient number will be generated for the students in that list, along with t
 
 > CSV uploads of active students should be treated as a one-off recipient list
 
-However, if you forsee having to use this list later on, you can save the list by clicking the cloud icon and giving it a name.
+However, if you foresee having to use this list later on, you can save the list by clicking the cloud icon and giving it a name.
 
 ![save list](/school-messenger-help/images/csv/save-list.png)
 
-It will save after the message is sent, but this is data you're resposible for. It's only as up to date as the CSV file you feed it.
+It will save after the message is sent, but this is data you're responsible for. It's only as up to date as the CSV file you feed it.
 
 <a id="not-in-aspen"></a>
 
@@ -129,7 +129,7 @@ The description is for administrative purposes and doesn't go along with a sent 
 
 ![list name](/school-messenger-help/images/csv/list-name.png)
 
-Keep the targetted recipients set to the default for "both".
+Keep the targeted recipients set to the default for "both".
 
 ![target](/school-messenger-help/images/csv/target-recipients.png)
 
