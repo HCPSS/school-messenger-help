@@ -14,7 +14,7 @@ Getting CSV files out of Aspen is useful for when you want to build a recipient 
 
 These can be Aspen data points such as being registered for AP courses, pre-registered kindergarten parents, or rising 5th graders who've made their schedules for middle school.
 
-Note that CSV data pulls from Aspen, but isn't automatically updated by Aspen once it's in SchoolMessenger. CSV lists are generated from your uploaded data, which therefore makes you responsible for keeping them up to date.
+**Even though** CSV data comes from Aspen, it isn't automatically updated by Aspen once it's in SchoolMessenger. CSV lists are generated from your uploaded data, which therefore makes you responsible for keeping them up to date.
 
 ### Getting the data in Aspen
 
