@@ -71,7 +71,7 @@ Under the "Broadcasts" tab, select "Lists" and then add a new list.
 
 ![add new list](/school-messenger-help/images/add-new-lists.png)
 
-Keep the targetted recipients set to the default "both", which adds both of their emergency contacts.
+Keep the targeted recipients set to the default "both", which adds both of their emergency contacts.
 
 ![target](/school-messenger-help/images/csv/target-recipients.png)
 
