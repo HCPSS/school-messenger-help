@@ -55,15 +55,11 @@ However, the email area has to be changed to "no-reply@hcpss.org". This blocks u
 
 ![saved list](/school-messenger-help/images/subject-from-name.png)
 
-> no-reply@hcpss.org is the best email to set the message to. Avoid any other characters or numbers in the "from email" area
-
-You can also attach files. SchoolMessenger allows up to three files, and each file must be under 2MB in size. 
-
-![saved list](/school-messenger-help/images/attach-files.png)
-
-Web Services will be happy to downside large PDFs for you. Please email us at <a href="mailto:webmaster@hcpss.org">webmaster@hcpss.org</a> if you need a PDF brought down below 2MB.
+> no-reply@hcpss.org is the required email to set the message to. Avoid any other characters or numbers in the "from email" area
 
 <a id="message-editing"></a>
+
+## Message subject and recipients
 
 The defaulted message area has a title, important text, and a body area that you can change. 
 
@@ -76,6 +72,31 @@ Avoid changing the footer area.
 ## Using the Toolbar
 
 The only styling options you have to worry about using in the toolbar area are bold and italicize. The font should be kept to the default, along with the font-size. This promotes read-ability across all devices. 
+
+<a id="attachment-files"></a>
+
+### Attaching Files
+
+You can also attach files. Files are added to an email message as a link rather than attached to the message separately. 
+
+When attaching files, place your cursor where the file link should show up. In the case of a blurb about a field day, put your cursor below the paragraph. 
+
+![cursor placement](/school-messenger-help/images/cursor-placement.png)
+
+Then, click on "attach" in the toolbar. 
+
+![attach file](/school-messenger-help/images/attachment-button.png)
+
+A window should pop up that allows you to enter in a display name. This display name is what will appear for users to click on and visit the document. 
+
+![add the files](/school-messenger-help/images/add-attachment.png)
+
+
+**Do not add more than two documents to a message**
+
+> If you need to add more than two, please contact your webmaster to have them upload the documents to the website. They can send a link to the document for you to use as a link. <a href="#adding-links">Find out more about adding links to your messages.</a>
+
+Once you've added a display name, choose or browse for the file and click upload. Then, click okay and this will drop in the file.
 
 ### Pasting from word
 
