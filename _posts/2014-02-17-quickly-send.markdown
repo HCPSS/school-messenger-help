@@ -73,6 +73,7 @@ Avoid changing the footer area.
 
 The only styling options you have to worry about using in the toolbar area are bold and italicize. The font should be kept to the default, along with the font-size. This promotes read-ability across all devices. 
 
+<!--
 <a id="attachment-files"></a>
 
 ### Attaching Files
@@ -99,6 +100,7 @@ A window should pop up that allows you to enter in a display name. This display 
 Once you've added a display name, choose or browse for the file and click upload. Make sure that the file name does not have unique characters (e.g., !@#$%^&*`), this will prevent the file from uploading. In lieu of spaces in a file name, use hyphens instead (e.g. school-supply-list.pdf)
 
 Then, click okay and this will drop in the file.
+-->
 
 ### Pasting from word
 
