@@ -96,7 +96,9 @@ A window should pop up that allows you to enter in a display name. This display 
 
 > If you need to add more than two, please contact your webmaster to have them upload the documents to the website. They can send a link to the document for you to use as a link. <a href="#adding-links">Find out more about adding links to your messages.</a>
 
-Once you've added a display name, choose or browse for the file and click upload. Then, click okay and this will drop in the file.
+Once you've added a display name, choose or browse for the file and click upload. Make sure that the file name does not have unique characters (e.g., !@#$%^&*`), this will prevent the file from uploading. In lieu of spaces in a file name, use hyphens instead (e.g. school-supply-list.pdf)
+
+Then, click okay and this will drop in the file.
 
 ### Pasting from word
 
