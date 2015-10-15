@@ -133,6 +133,12 @@ From here, you can paste in the URL that was just copied. Don't worry about chan
 
 ![link area](/school-messenger-help/images/link-area.png)
 
+Be sure to also set the target of your link to new window. This ensures that when users click on your link, they're brought to a new browser window rather than away from your message.
+
+If you use preview to test your links, setting them to open in a new window will allow you to test them out before you send a message.
+
+![new window target](/school-messenger-help/images/target-blank.png)
+
 If everything worked, the text that was highlighted should now become a hyperlink that leads to the linked URL.
 
 You can always preview your message by clicking on the preview button.
