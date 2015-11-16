@@ -11,9 +11,11 @@ When you log into the system, the first screen you come across is called the Das
 
 On screen 1, there's the subject and message type areas. The subject area will be the name of your Broadcast. Once you've added a subject, the icon next to the text field will turn green.
 
-In the dropdown, "General" messages are for reminders or newsletters, whereas "School Hours Emergency" or "Non-School Hours Emergency" are for emergencies only.
+In the dropdown, "General" messages are for reminders or newsletters, whereas "School Hours Emergency" or "Non-School Hours Emergency" are for emergencies only. [Find out more about crafting an emergency message](/school-messenger-help/2014/02/17/important-message-stationary.html).
 
 ![new broadcast](/school-messenger-help/images/subject-message-type.png)
+
+<a id="recipients"></a>
 
 ## Recipients
 
@@ -25,19 +27,79 @@ Select the “_SchoolName (All Students + Community)” list and click “Add Re
 
 ![saved list](/school-messenger-help/images/school-message-list-recipients.png)
 
-This recipient count will fluctuate as new students are enrolled at your school.
+This recipient count gets updated every weekday in the morning and will fluctuate as new students are enrolled or un-enrolled at your school.
 
-You can also add yourself as a recipient to get a copy of the message. This is also a good way to test messages without sending it to your entire school community.
+<a id="custom-rules"></a>
+
+### Custom Rules
+
+Sometimes, you'll want to get more specific about who gets your message. Custom rules allows you to add students who are listed under either a grade-level, target just parents, or a specific bus number.
+
+![recipient options](/school-messenger-help/images/recipient-options.png)
+
+Under the "add message recipients" menu, select "custom rules" to make your recipient list more specific. Then, select the field you want to filter on.
+
+![custom rule options](/school-messenger-help/images/custom-rules.png)
+
+**Buses**
+
+- Choose "bus to school" or "bus from school" depending on the time of day and select an individual bus number. Keep the criteria set to "is in" and this will load students who are listed under a specific bus number. 
+
+**Specific Grades**
+
+- Choose "grade level", then select a grade or multiple grades to load students in that specific grade.
+
+**Just Parents**
+
+- Choose contact type, and then select student. This will only send to parents and leaves out the community members or staff who have signed up for your messages.
+
+Once your selection is complete under either option, click on "save" and then "add recipients".
+
+![save selection](/school-messenger-help/images/search-save.png)
+
+![add recipients](/school-messenger-help/images/add-recipients.png)
+
+Don't worry about saving a list you've made using custom rules. You can select the custom rules again later on and the data always stays fresh from Synergy.
+
+### Quick Pick - Send to specific students
+
+You can also do a quick pick right from your message if you're looking to quickly send to a group of students. All you need to know are their names, student IDs, or emails associated with their accounts. SchoolMessenger will do all the searching for you. 
+
+Select quick pick under your "add message recipients" dropdown.
+
+![message quick pick](/school-messenger-help/images/quick-pick-message.png)
+
+Search and then select the students you want to add. 
+
+![in-message quick pick](/school-messenger-help/images/in-message-quick-pick.png)
+
+You can check off multiple students and then search again. After you've added the specific students, click on "add selected recipients". 
+
+This will add the list to your message, and from here you can either delete, save, or preview it.
+
+- The x button will delete the list from your message.
+
+- The cloud button allows you to save the list and will prompt you to give your list a title. It will then save it to your lists to use later **after you send out your message.** Next time you're sending, you can access that list under "saved recipient lists".
+
+- The eyeball allows you to preview the recipient list.
+
+![message quick pick](/school-messenger-help/images/previewing-sending-list.png)
+
+Click on continue to move on and send your message using that list. 
+
+You can update and manage these lists at any time under "Lists" in the "Broadcasts" tab. 
 
 ![saved list](/school-messenger-help/images/add-me.png)
 
 After you've added the recipients, click on continue to get to the next screen.
 
-## Message Content
+<a id="message-types"></a>
 
-For a general message, you'll always send an email. For an emergency message, you can send both an email and a text message. The only time you'll send just an SMS message is when a bus is running late.
+## General versus Emergency Messages
 
-> The SMS option is for emergency messages only, never send out a general reminder through SMS
+For a general message, you'll always send an email. For an emergency message, you can send both an email and a text message. [Learn more about crafting an emergency message](/school-messenger-help/2014/02/17/important-message-stationary.html).
+
+**The SMS option is for emergency messages only, never send out a general reminder through SMS.**
 
 To get started on an email, click on the email button.
 
@@ -47,11 +109,11 @@ Select the simple message stationary, and then click on "use selected stationary
 
 ![saved list](/school-messenger-help/images/simple-message-stationary.png)
 
-<a href="/school-messenger-help/2014/02/17/important-message-stationary.html">Here are instructions</a> for using the Important Message stationary, which is only for emergencies.
+Emergency messages [must use the important message stationary](/school-messenger-help/2014/02/17/important-message-stationary.html#inserting-the-important-message-stationary).
 
 Once the stationary has loaded up, the from name should be defaulted to your school. 
 
-However, the email area has to be changed to "no-reply@hcpss.org". This blocks users from replying to your email directly and helps the message not look like spam. 
+However, **the email area has to be changed to "no-reply@hcpss.org".** This blocks users from replying to your email directly and helps the message not look like spam. 
 
 ![saved list](/school-messenger-help/images/subject-from-name.png)
 
@@ -59,7 +121,7 @@ However, the email area has to be changed to "no-reply@hcpss.org". This blocks u
 
 <a id="message-editing"></a>
 
-## Message subject and recipients
+## Crafting a Message
 
 The defaulted message area has a title, important text, and a body area that you can change. 
 
@@ -67,11 +129,11 @@ You can either delete the important text area, or add your school's motto if you
 
 ![saved list](/school-messenger-help/images/default-message-area.png)
 
-Avoid changing the footer area.
+Don't change the footer area.
 
 ## Using the Toolbar
 
-The only styling options you have to worry about using in the toolbar area are bold and italicize. The font should be kept to the default, along with the font-size. This promotes read-ability across all devices. 
+The only styling options you have to worry about using in the toolbar area are bold and italicize. **The font should be kept to the default, along with the font-size.** This promotes read-ability across all devices. 
 
 <a id="attachment-files"></a>
 
@@ -96,6 +158,8 @@ A window should pop up that allows you to enter in a display name. This display 
 Once you've added a display name, choose or browse for the file and click upload. Make sure that the file name does not have unique characters (e.g., !@#$%^&*`), this will prevent the file from uploading. In lieu of spaces in a file name, use hyphens instead (e.g. school-supply-list.pdf)
 
 Then, click okay and this will drop in the file.
+
+<a id="paste-word"></a>
 
 ### Pasting from word
 
@@ -141,6 +205,26 @@ If you use preview to test your links, setting them to open in a new window will
 
 If everything worked, the text that was highlighted should now become a hyperlink that leads to the linked URL.
 
+<a id="enter-email-address"></a>
+
+#### Making an email address a link
+
+Additionally, you can make email addresses work as links. This allows users to click on an email address, and their desktop mail client will open a new window with a an email ready to compose. 
+
+Same as with adding a regular link, highlight the email address in your message and click on the link button. 
+
+![copying an email](/school-messenger-help/images/copy-email-address.png)
+
+![add a link](/school-messenger-help/images/add-link.png)
+
+Then, switch the URL dropdown to "email". 
+
+![email dropdown](/school-messenger-help/images/email-dropdown.png)
+
+Enter in the email address and don't worry about the subject or body fields. Click OK and the email address should become clickable.
+
+![enter in email](/school-messenger-help/images/enter-in-email-address.png)
+
 You can always preview your message by clicking on the preview button.
 
 ![preview message](/school-messenger-help/images/preview.png)
@@ -150,6 +234,8 @@ At any point, you can also erase the email content by clicking on the discard bu
 Once your content is all set, click on the "save email message" to move on to the final screen.
 
 ![](/school-messenger-help/images/save-discard.png)
+
+<a id="sending-screen"></a>
 
 ## Sending
 
