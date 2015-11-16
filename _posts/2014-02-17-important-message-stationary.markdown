@@ -24,7 +24,7 @@ The ideal message would look like this:
 <section style="background-color: #e7e7e7; margin-top: 10px; margin-bottom: 10px; padding: 10px;">
 <p>Around 9am, the power went out at our school. Students are safe and have been attending regular classes. Due to cold temperatures and an unknown timeline for a fix from BGE, we are dismissing early today.</p>
 
-<p>Dismissal will begin at 10am for all students and all after-school activities, including child care, have been cancelled. Students may be picked up by the contacts listed on their Emergency Procedure card.</p>
+<p>Dismissal will begin at 10am for all students and all after-school activities, including child care, have been cancelled. Buses will transport students who ride PM buses home. Students may also be picked up by the contacts listed on their Emergency Procedure card by 10am.</p>
 
 <p>Phones are operational, so please contact our front office at 555-555-5555 if you have any concerns.</p>
 </section>
@@ -33,7 +33,7 @@ The ideal message would look like this:
 
 After adding a subject, specifying the message as an emergency, and adding recipients, the second screen will have email and SMS buttons.
 
-Select the email button first. You can craft the SMS message afterwards to either match or be an abbreviated form of your message afterwards.
+Select the email button first. You can craft the SMS message afterwards to either match or be an abbreviated form of your message.
 
 ![email button](/school-messenger-help/images/email-button.png)
 
@@ -41,13 +41,17 @@ That will open up an additional box for selecting stationary. The important mess
 
 > Important messages are **not** reminders for school events, please use the simple message stationary for these non-emergency messages
 
-Your important message template should be titled with your school acronym, followed by " - Important Message".
+Your important message template is titled with your school acronym, followed by " - Important Message".
 
 Select "Use Selected Stationary" after clicking on the important message template.
 
 ![email button](/school-messenger-help/images/select-stationary.png)
 
 ## Editing inside of the stationary
+
+Remember to set the "From Email" area to no-reply@hcpss.org and to add the subject.
+
+![important message fields](/school-messenger-help/images/important-message-fields.png)
 
 Emergency Messages should be simple in their formatting. Avoid any styling except for bolding text. 
 
@@ -57,13 +61,9 @@ Don't worry about attaching any files or images.
 
 The dotted box is where you can add your message text and is the only place where text can be edited. The top and bottom text areas cannot be edited. If any information needs to be changed in either of these areas, please let [Web Services](mailto:webmaster@hcpss.org) know.
 
-Remember to set the "From Email" area to no-reply@hcpss.org and to add the subject.
-
-![important message fields](/school-messenger-help/images/important-message-fields.png)
-
 In the message area, feel free to either type up your message or paste content in.
 
-## Pasting from word
+### Pasting from word
 
 If you're choosing to type up your message in Microsoft Word, it's important to **always** run any text coming in from Microsoft Word through the word clipboard. 
 
@@ -71,12 +71,14 @@ Copy all your text from Microsoft Word.
 
 ![copy microsoft word](/school-messenger-help/images/copy-ms-word.png)
 
-Inside of SchoolMessenger, highlight the text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
+Inside of SchoolMessenger, highlight the placeholder text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
 
-![paste from microsoft word](/school-messenger-help/images/highlight-paste-from-word.png)
+![paste from microsoft word](/school-messenger-help/images/highlight-paste-from-word-2.png)
 
-After pasting it in there may be some extra space, but most of the time this will go through as a single return between paragraphs. 
+Paste in the text from MS word into the box and then click OK.
 
-![paste from microsoft word](/school-messenger-help/images/editor-extra-space.png)
+![](/school-messenger-help/images/editor-extra-space.png)
+
+After dropping it in there may be some extra space, but most of the time this will go through as a single return between paragraphs.
 
 Select "done" once your message is all set, and you can now send it to your recipients.
