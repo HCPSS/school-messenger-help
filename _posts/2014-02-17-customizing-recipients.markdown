@@ -5,7 +5,7 @@ title: "Customizing Recipient Lists"
 
 Sending messages to your school community doesn't always involve sending to everyone that signed up. Sometimes, you'll want to target a specific grade-level, bus number, or a custom list of students. 
 
-You can build lists outside of messages, or [create the list right before sending out a message](/school-messenger-help/2014/02/17/quickly-send.html#custom-rules). 
+You can build lists outside of messages, or [create the list using custom rules right before sending out a message](/school-messenger-help/2014/02/17/quickly-send.html#custom-rules). 
 
 When building lists using custom rules or quick pick, the student data feeds from Synergy and is always fresh. Changes in the data will be reflected in the lists from year to year.
 
