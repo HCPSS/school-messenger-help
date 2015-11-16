@@ -27,7 +27,7 @@ Select the “_SchoolName (All Students + Community)” list and click “Add Re
 
 ![saved list](/school-messenger-help/images/school-message-list-recipients.png)
 
-This recipient count gets updated every weekday in the morning and will fluctuate as new students are enrolled or un-enrolled at your school.
+This recipient count gets updated every weekday in the morning and will fluctuate as new students are enrolled or un-enrolled at your school. Community members signing up for your messages will make the number change as well.
 
 <a id="custom-rules"></a>
 
@@ -43,7 +43,7 @@ Under the "add message recipients" menu, select "custom rules" to make your reci
 
 **Buses**
 
-- Choose "bus to school" or "bus from school" depending on the time of day and select an individual bus number. Keep the criteria set to "is in" and this will load students who are listed under a specific bus number. 
+- Choose "bus to school" or "bus from school" depending on the time of day and select an individual bus number. Keep the criteria set to "is in" and this will load students who are listed under a specific bus number. However, if you select the bus number and the student count looks a bit low (e.g. 4 versus the usual 20-40), you can manually add students via [quick pick.](#quick-pick)
 
 **Specific Grades**
 
@@ -61,15 +61,17 @@ Once your selection is complete under either option, click on "save" and then "a
 
 Don't worry about saving a list you've made using custom rules. You can select the custom rules again later on and the data always stays fresh from Synergy.
 
+<a id="quick-pick"></a>
+
 ### Quick Pick - Send to specific students
 
-You can also do a quick pick right from your message if you're looking to quickly send to a group of students. All you need to know are their names, student IDs, or emails associated with their accounts. SchoolMessenger will do all the searching for you. 
+You can also do a quick pick right from your message if you're looking to quickly send to a group of students. Type in a student's name or parent email address and SchoolMessenger will do all the searching for you. 
 
 Select quick pick under your "add message recipients" dropdown.
 
 ![message quick pick](/school-messenger-help/images/quick-pick-message.png)
 
-Search and then select the students you want to add. 
+Search for students by name, and then select the students you want to add. 
 
 ![in-message quick pick](/school-messenger-help/images/in-message-quick-pick.png)
 
@@ -111,7 +113,7 @@ Select the simple message stationary, and then click on "use selected stationary
 
 Emergency messages [must use the important message stationary](/school-messenger-help/2014/02/17/important-message-stationary.html#inserting-the-important-message-stationary).
 
-Once the stationary has loaded up, the from name should be defaulted to your school. 
+Once the stationary has loaded up, the "from name" should be defaulted to your school. 
 
 However, **the email area has to be changed to "no-reply@hcpss.org".** This blocks users from replying to your email directly and helps the message not look like spam. 
 
@@ -139,7 +141,7 @@ The only styling options you have to worry about using in the toolbar area are b
 
 ### Attaching Files
 
-You can also attach files. Files are added to an email message as a link rather than attached to the message separately. 
+You can also attach files. Files are added to an email message as a link rather than attached to the message separately. You can add multiple files, but keep it less than 3.
 
 When attaching files, place your cursor where the file link should show up. In the case of a blurb about a field day, put your cursor below the paragraph. 
 
@@ -155,9 +157,11 @@ A window should pop up that allows you to enter in a display name. This display 
 
 **Files must be less than 2MB in size**
 
-Once you've added a display name, choose or browse for the file and click upload. Make sure that the file name does not have unique characters (e.g., !@#$%^&*`), this will prevent the file from uploading. In lieu of spaces in a file name, use hyphens instead (e.g. school-supply-list.pdf)
+Once you've added a display name, choose or browse for the file and make sure that the file name does not have unique characters (e.g., !@#$%^&*`), this will prevent the file from uploading. In lieu of spaces in a file name, use hyphens instead (e.g. school-supply-list.pdf)
 
-Then, click okay and this will drop in the file.
+Click on upload after choosing the file.
+
+Then, click OK and this will drop in the file.
 
 <a id="paste-word"></a>
 
@@ -169,13 +173,15 @@ Copy all your text from Microsoft Word.
 
 ![copy microsoft word](/school-messenger-help/images/copy-ms-word.png)
 
-Inside of SchoolMessenger, highlight the text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
+Inside of SchoolMessenger, highlight the placeholder text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
 
 ![paste from microsoft word](/school-messenger-help/images/highlight-paste-from-word-2.png)
 
-After pasting it in there may be some extra space, but most of the time this will go through as a single return between paragraphs. 
+Paste in the text from MS word into the box and then click OK.
 
 ![](/school-messenger-help/images/editor-extra-space.png)
+
+After dropping it in there may be some extra space, but most of the time this will go through as a single return between paragraphs. 
 
 <a id="adding-links"></a>
 
@@ -209,7 +215,7 @@ If everything worked, the text that was highlighted should now become a hyperlin
 
 #### Making an email address a link
 
-Additionally, you can make email addresses work as links. This allows users to click on an email address, and their desktop mail client will open a new window with a an email ready to compose. 
+Additionally, you can make email addresses work as links. This allows users to click on an email address, and their desktop mail client will open a new window with an email ready to compose. 
 
 Same as with adding a regular link, highlight the email address in your message and click on the link button. 
 
@@ -249,7 +255,7 @@ Once you're at the final screen it's always a good idea to check your recipient 
 
 ![recipient count](/school-messenger-help/images/checking-messages.png)
 
-When you're sending to your whole school community, this recipient count will be in the mid to upper hundreds.
+When you're sending to your whole school community, this recipient count will be in the mid to upper hundreds. Some middle and high schools will be in the lower thousands.
 
 The message content area will have a green checkmark next to the message type you're sending out. In the case of general messages, the email area will be checked off. During emergencies, both the email and SMS area will be checked off.
 
@@ -259,9 +265,9 @@ The message options area can stay set to the defaulted boxes that are checked of
 
 ![message options](/school-messenger-help/images/options.png)
 
-If you ever want to re-use a message later on, check off the "save message content" option. You'll be prompted to give it a descriptive title, and it can be accessed later on. View our documentation <a href="/school-messenger-help/2014/02/17/creating-draft-message.html#saved-messages">on accessing saved messages.</a>
+If you ever want to re-use a message later on, check off the "save message content" option. You'll be prompted to give it a descriptive title, and it can be accessed after you've sent the message. View the documentation <a href="/school-messenger-help/2014/02/17/creating-draft-message.html#saved-messages">on accessing messages you've saved for later.</a>
 
-Select the "send now" button to send out the message. There's also a scheduling feature if you'd like a message to go out on a particular date and time.
+Select the "send now" button to send out the message. There's also a scheduling feature if you'd like a message to go out on a particular date and time. From the home screen, this scheduled message can be cancelled if needed.
 
 ![send now](/school-messenger-help/images/send.png)
 
