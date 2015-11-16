@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Using the Important Message Stationary"
+title: "Emergency messages"
 ---
 
 There are a variety of different devices and mediums that parents receive messages on. Web Services has designed a template that follows a standard emergency message format. 
 
 This stationary is meant for messages that are **emergencies only.** This includes school-based cancellations or emergencies that pertain only to your building.
 
-## Brevity Matters
+## Writing an emergency message
 
 > This isn't an all-inclusive approach because every emergency situation calls for different approaches. However, this message format is typically what parents are looking for.
 
@@ -29,7 +29,7 @@ The ideal message would look like this:
 <p>Phones are operational, so please contact our front office at 555-555-5555 if you have any concerns.</p>
 </section>
 
-## Inserting the Stationary
+## Inserting the Important Message Stationary
 
 After adding a subject, specifying the message as an emergency, and adding recipients, the second screen will have email and SMS buttons.
 
