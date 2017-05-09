@@ -167,21 +167,41 @@ Then, click OK and this will drop in the file.
 
 ### Pasting from word
 
-If you're choosing to type up your message in Microsoft Word, it's important to **always** run any text coming in from Microsoft Word through the word clipboard. 
+If you're choosing to type up your message in Microsoft Word, it's important to **always** run any text coming in from Microsoft Word through a plain text editor. For Mac users, this is a free program called "TextEdit". For PC users, their version is "Notepad". 
 
-Copy all your text from Microsoft Word.
+Copy (command+C) all your text from Microsoft Word.
 
 ![copy microsoft word](/school-messenger-help/images/copy-ms-word.png)
 
-Inside of SchoolMessenger, highlight the placeholder text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
+#### Mac Users
 
-![paste from microsoft word](/school-messenger-help/images/highlight-paste-from-word-2.png)
+Go to spotlight search, which should be the magnifying glass icon located in the upper right-hand side of your screen, next to the date and time. 
 
-Paste in the text from MS word into the box and then click OK.
+![](/school-messenger-help/images/spotlight-search.png)
 
-![](/school-messenger-help/images/editor-extra-space.png)
+In spotlight search, type in the word "text" and the first result should be TextEdit.
 
-After dropping it in there may be some extra space, but most of the time this will go through as a single return between paragraphs. 
+![](/school-messenger-help/images/search-textedit.png)
+
+#### PC Users
+
+You'll be able to find the same program under your start menu. Then, search your Windows machine for "Notepad". Notepad is already in plain text mode, just paste all text into Notepad, and then copy and paste it back into SchoolMessenger
+
+#### Mac Users
+
+Before pasting in any content from your Word document, go to the top-left side of your screen and click on "Format". In the format menu click on the option "Make Plain Text", which will drop the toolbar from the editor.
+
+![](/school-messenger-help/images/make-plain-text.png)
+
+Once the toolbar is gone, paste (command+V) in the content from the Word document into TextEdit. It should look like typewriter text.
+
+![](/school-messenger-help/images/plain-text-output.png)
+
+All links, bulleted lists, fonts, colors, and any other additional formatting will be dropped. That's okay, because sometimes links can be corrupted from Word files and extra formatting can throw errors. 
+
+Highlight all the existing text in your SchoolMessenger message, and then paste in everything that was copied from TextEdit. From here, you can add links or bulleted lists, as well as bold or italics for text. 
+
+![](/school-messenger-help/images/paste-into-messenger.png)
 
 <a id="adding-links"></a>
 
