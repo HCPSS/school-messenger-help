@@ -23,7 +23,7 @@ Select the “Saved Recipients Lists…” from the "Add Message Recipients" dro
 
 ![saved list](/school-messenger-help/images/access-saved-list.png)
 
-Select the “_SchoolName (All Students + Community)” list and click “Add Recipients.” 
+Select the "_SchoolName (All Students + Community)" list and click "Add Recipients." 
 
 ![saved list](/school-messenger-help/images/school-message-list-recipients.png)
 
@@ -43,15 +43,15 @@ Under the "add message recipients" menu, select "custom rules" to make your reci
 
 **Buses**
 
-- Choose "bus to school" or "bus from school" depending on the time of day and select an individual bus number. Keep the criteria set to "is in" and this will load students who are listed under a specific bus number. However, if you select the bus number and the student count looks a bit low (e.g. 4 versus the usual 20-40), you can manually add students via [quick pick.](#quick-pick)
+- Choose "bus to school" or "bus from school" depending on the time of day and select an individual bus number. Keep the criteria set to "is in" and this will load students who are listed under a specific bus number. However, if you select the bus number and the student count looks a bit low (e.g. 4 versus the usual 20-40), just send to the whole school/community list.
 
 **Specific Grades**
 
-- Choose "grade level", then select a grade or multiple grades to load students in that specific grade.
+- Choose "grade level", then select a **grade or multiple grades** to load students in that specific grade.
 
 **Just Parents**
 
-- Choose contact type, and then select student. This will only send to parents and leaves out the community members or staff who have signed up for your messages.
+- Choose **contact type**, and then select student. This will only send to **parents** and leaves out the community members or staff who have signed up for your messages.
 
 Once your selection is complete under either option, click on "save" and then "add recipients".
 
@@ -61,53 +61,19 @@ Once your selection is complete under either option, click on "save" and then "a
 
 Don't worry about saving a list you've made using custom rules. You can select the custom rules again later on and the data always stays fresh from Synergy.
 
-<a id="quick-pick"></a>
-
-### Quick Pick - Send to specific students
-
-You can also do a quick pick right from your message if you're looking to quickly send to a group of students. Type in a student's name or parent email address and SchoolMessenger will do all the searching for you. 
-
-Select quick pick under your "add message recipients" dropdown.
-
-![message quick pick](/school-messenger-help/images/quick-pick-message.png)
-
-Search for students by name, and then select the students you want to add. 
-
-![in-message quick pick](/school-messenger-help/images/in-message-quick-pick.png)
-
-You can check off multiple students and then search again. After you've added the specific students, click on "add selected recipients". 
-
-This will add the list to your message, and from here you can either delete, save, or preview it.
-
-- The x button will delete the list from your message.
-
-- The cloud button allows you to save the list and will prompt you to give your list a title. It will then save it to your lists to use later **after you send out your message.** Next time you're sending, you can access that list under "saved recipient lists".
-
-- The eyeball allows you to preview the recipient list.
-
-![message quick pick](/school-messenger-help/images/previewing-sending-list.png)
-
-Click on continue to move on and send your message using that list. 
-
-You can update and manage these lists at any time under "Lists" in the "Broadcasts" tab. 
-
-![saved list](/school-messenger-help/images/add-me.png)
-
-After you've added the recipients, click on continue to get to the next screen.
-
 <a id="message-types"></a>
 
 ## General versus Emergency Messages
 
-For a general message, you'll always send an email. For an emergency message, you can send both an email and a text message. [Learn more about crafting an emergency message](/school-messenger-help/2014/02/17/important-message-stationary.html).
+For a general message, you'll always send an email. For an emergency message, you can send both an email and a text message. 
 
-**The SMS option is for emergency messages only, never send out a general reminder through SMS.**
+[Learn more about crafting an emergency message, including text messages &rarr;](/school-messenger-help/2014/02/17/important-message-stationary.html)
 
 To get started on an email, click on the email button.
 
 ![saved list](/school-messenger-help/images/email-button.png)
 
-Select the simple message stationary, and then click on "use selected stationary".
+Select the simple message stationary, or fluid template stationary (if applicable), and then click on "use selected stationary".
 
 ![saved list](/school-messenger-help/images/simple-message-stationary.png)
 
@@ -119,13 +85,13 @@ However, **the email area has to be changed to "no-reply@hcpss.org".** This bloc
 
 ![saved list](/school-messenger-help/images/subject-from-name.png)
 
-> no-reply@hcpss.org is the required email to set the message to. Avoid any other characters or numbers in the "from email" area
+> no-reply@hcpss.org is the required email to set the "from email" to. Avoid any other characters or numbers in the "from email" area.
 
 <a id="message-editing"></a>
 
 ## Crafting a Message
 
-The defaulted message area has a title, important text, and a body area that you can change. 
+The default message area has a title, important text, and a body area that can be changed. 
 
 You can either delete the important text area, or add your school's motto if you're stuck on what to do with it.
 
@@ -193,7 +159,7 @@ Before pasting in any content from your Word document, go to the top-left side o
 
 ![](/school-messenger-help/images/make-plain-text.png)
 
-Once the toolbar is gone, paste (command+V) in the content from the Word document into TextEdit. It should look like typewriter text.
+Once the toolbar goes away, paste (command+V) the content from the Word document into TextEdit. It should now look like typewriter text.
 
 ![](/school-messenger-help/images/plain-text-output.png)
 
@@ -207,7 +173,7 @@ Highlight all the existing text in your SchoolMessenger message, and then paste 
 
 ### Adding Links
 
-Any link you add to a message has to be copied from a URL bar. Links should never be copied over from Outlook because there are some issues that happen behind the scenes with these links.
+Any link you add to a message has to be copied from a URL bar. Links should never be copied over from Outlook because there are some issues that happen behind the scenes.
 
 If you ever have a link emailed to you, open it up in a new window and copy the URL from the the URL bar.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Emergency messages"
 ---
 
-There are a variety of different devices and mediums that parents receive messages on. Web Services has designed a template that follows a standard emergency message format. 
+There are a variety of different devices and mediums that parents receive messages on. Web Services has designed an important message template that follows a standard emergency message format. 
 
 This stationary is meant for messages that are **emergencies only.** This includes school-based cancellations or emergencies that pertain only to your building.
 
@@ -19,14 +19,14 @@ After stating the emergency, go over the protocol that your school is following 
 
 When concluding, provide contact information for questions or concerns.
 
-The ideal message would look like this:
+**The ideal message would look like this:**
 
 <section style="background-color: #e7e7e7; margin-top: 10px; margin-bottom: 10px; padding: 10px;">
 <p>Around 9am, the power went out at our school. Students are safe and have been attending regular classes. Due to cold temperatures and an unknown timeline for a fix from BGE, we are dismissing early today.</p>
 
-<p>Dismissal will begin at 10am for all students and all after-school activities, including child care, have been cancelled. Buses will transport students who ride PM buses home. Students may also be picked up by the contacts listed on their Emergency Procedure card by 10am.</p>
+<p>Dismissal will begin at 10am for all students and all after-school activities, including child care, have been cancelled. Buses will transport students who ride PM buses home. Students may also be picked up by the emergency contacts listed in their Family File by 10am.</p>
 
-<p>Phones are operational, so please contact our front office at 555-555-5555 if you have any concerns.</p>
+<p>Phones are operational, please contact our front office at 555-555-5555 if you have any concerns.</p>
 </section>
 
 ## Inserting the Important Message Stationary
@@ -39,7 +39,7 @@ Select the email button first. You can craft the SMS message afterwards to eithe
 
 That will open up an additional box for selecting stationary. The important message stationary is meant for emergencies only, so it should be used in any scenario when you're also using the text message feature. 
 
-> Important messages are **not** reminders for school events, please use the simple message stationary for these non-emergency messages
+> Important messages are **not** reminders for school events, please use the simple or fluid message stationary for these non-emergency messages
 
 Your important message template is titled with your school acronym, followed by " - Important Message".
 
@@ -63,22 +63,34 @@ The dotted box is where you can add your message text and is the only place wher
 
 In the message area, feel free to either type up your message or paste content in.
 
-### Pasting from word
+**Pasting from Word? <a href="/school-messenger-help/2014/02/17/quickly-send.html#paste-word">Use a text editor &rarr;</a>**
 
-If you're choosing to type up your message in Microsoft Word, it's important to **always** run any text coming in from Microsoft Word through the word clipboard. 
+<a id="sms"></a>
 
-Copy all your text from Microsoft Word.
+## Sending a text message
 
-![copy microsoft word](/school-messenger-help/images/copy-ms-word.png)
+Text messages are reserved primarily for emergency events. All emergency messages must be accompanied by a text message. 
 
-Inside of SchoolMessenger, highlight the placeholder text that's already in there, and then select the "paste from word" clipboard icon on your toolbar.
+However, schools are allowed to send one non-priority message per week. 
 
-![paste from microsoft word](/school-messenger-help/images/highlight-paste-from-word-2.png)
+These non-priority messages can include reminders to parents about an upcoming flu vaccination clinic, or if a school's food bank is open during the upcoming weekend. Make sure any non-priority messages convey relevant information that parents would find useful. 
 
-Paste in the text from MS word into the box and then click OK.
+![](/school-messenger-help/images/sms-button.png)
 
-![](/school-messenger-help/images/editor-extra-space.png)
+To begin crafting a text message, click on the SMS button after writing your email.
 
-After dropping it in there may be some extra space, but most of the time this will go through as a single return between paragraphs.
+![](/school-messenger-help/images/sms-acronym.png)
 
-Select "done" once your message is all set, and you can now send it to your recipients.
+**Make sure all text messages are prefixed with your school's acronym**
+
+You can copy and paste your email text and wordsmith for quicker sending. Be sure that your text message contains 
+
+Note in the lower right-hand corner of the editing box there's a character counter, which if it exceeds 160 characters will not allow you to save the text message. 
+
+![](/school-messenger-help/images/sms-character-count.png)
+
+After crafting the text message, press save and then continue to move on to the final sending screen.
+
+![](/school-messenger-help/images/sms-save-button.png)
+
+![](/school-messenger-help/images/continue-button.png)

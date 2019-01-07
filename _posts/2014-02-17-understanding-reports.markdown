@@ -39,6 +39,6 @@ Beneath the summary under totals there are also numbers on the amount of duplica
 
 ## Checking all emails
 
-Underneath totals, you can click on "email:" to view all recipients who were contacted. This is useful to check whether or not that a parent has been able to read or skim a message. Similar to searching the blocked list, you can search this contact list using your browsers find feature and then cycle through lists with the page selection feature.
+Underneath totals, you can click on "email:" to view all recipients who were contacted. This is useful to check whether or not that a parent has been able to read (marked as "read") or did not open (marked as "delivered") a message. Similar to searching the blocked list, you can search this contact list using your browser's find feature and then cycle through lists with the page selection feature.
 
 ![](/school-messenger-help/images/reports/check-all-emails.png)

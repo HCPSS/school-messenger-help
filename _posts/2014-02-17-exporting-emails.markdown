@@ -20,7 +20,7 @@ These can be Synergy data points such as being registered for AP courses, pre-re
 
 ### Getting the data
 
-####Synergy
+#### Synergy
 
 - You can download the data from Synergy as a CSV file. If you need help with this, please contact [Brenda Finkle](mailto:Brenda_Finkle@hcpss.org) with any additional questions.
 
@@ -30,7 +30,7 @@ Let's say you wanted to build of list of kids who are taking AP courses at your 
 
 After downloading their sorted information as a CSV from Synergy, delete every column except for the ID numbers.
 
-####Inside Excel
+#### Inside Excel
 
 - Select every cell by clicking on the upper left-hand corner
 
@@ -123,6 +123,8 @@ Then, under the additional list tools menu use the "upload list" option.
 ![upload the list again](/school-messenger-help/images/refresh-upload-list.png)
 
 Select "contact data" and "choose file" to add the CSV file you created, then click next.
+
+- Note you can use ID lookup as well with the same process <a href="#getting-the-data">above</a>
 
 ![contact data](/school-messenger-help/images/contact-data.png)
 

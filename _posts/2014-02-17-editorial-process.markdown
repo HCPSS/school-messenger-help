@@ -5,23 +5,23 @@ title: "Utilizing an Editorial Process"
 
 ## Features
 
-Syndicating news content from your school to parents is possible across the multiple platforms built for you by HCPSS Web Services.
+Syndicating news content from your school to parents is possible across the multiple platforms that schools have access to.
 
 This includes:
 
-- Your School's Website
+- A School's Website
 - SchoolMessenger
 - The HCPSS Mobile Application for Apple and Android devices 
 
 ## In Practice
 
-Public Information uses a process that allows them to post news stories all week on the HCPSS Website, then pick stories to send out every Wednesday via a Weekly Newsletter.
+Communications uses a process that allows them to post news stories all week on the HCPSS Website, then pick stories to send out every Wednesday via a Weekly Newsletter.
 
 When a news item gets posted it's given a unique URL to share:
 
 ![](/school-messenger-help/images/editorial-process/grab-url.png)
 
-Posting stories on the site the instant they are available allows the Public Information Office to get news items out in a timely manner.
+Posting stories on the site the instant they are available allows the Communications Office to get news items out in a timely manner.
 
 This URL is then used to link readers to the full content from a smaller blurb, or content snippet, in the Weekly Newsletter that's sent out from SchoolMessenger.
 
@@ -45,23 +45,23 @@ Collaborate with web managers to have them post news items as they come in.
 
 > This gets a story out the instant it's available, and allows you to link to it in your weekly newsletter
 
-All news items are pushed to the HCPSS Mobile App when they are published on your website. Keeping news content on the school sites also allows web managers to post YouTube embeds, images, and additional documents that would've have been possible in an email.
+All news items are pushed to the HCPSS Mobile App when they are published on your website. Keeping news content on the school sites also allows web managers to post YouTube embeds, images, and additional documents that would not have been possible in an email.
 
 Web Managers should be pretty familiar with this process, and can send newsletter editors a link once a news item is posted. 
 
-If web managers need a refresher on adding news items, they can [view our documentation](http://hcpss.github.io/schoolsites-help/news/2014/07/15/news-messages/).
+If web managers need a refresher on adding news items, they can [view our documentation](http://hcpss.github.io/schoolsites-help/news/2016/12/09/adding-news/).
 
 ### The Mobile Application
 
-More than 8,000 families have kids in more than one school. The Mobile Application allows news content from multiple schools to live in one place without the distraction of other messages, so all content displayed relates directly to HCPSS schools.
+More than 8,000 families have kids in more than one school. The Mobile Application allows news content from multiple schools to live in one place without the distraction of other messages.
 
 <img src = "/school-messenger-help/images/editorial-process/mobile-application.png">
 
-As soon as news content gets posted to a school's website, it begins to push to the application.
+As soon as news content gets posted to a school's website, it begins to push to the application as a full news feed.
 
 ### The Weekly Newsletter
 
-After a link is established on your site, then it's ready to be shared.
+After a link is established on your site it's ready to be immediately shared.
 
 Type up a one to three sentence blurb in your newsletter to give readers some context about the article. Try following up the blurb with a "read more" or "find out more" link to the full content. 
 
